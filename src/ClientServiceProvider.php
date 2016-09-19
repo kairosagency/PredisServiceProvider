@@ -15,7 +15,7 @@ use InvalidArgumentException;
 use Predis\Client;
 use Predis\Connection\Parameters;
 
-use Pimple\Application;
+use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 
 /**
